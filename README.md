@@ -1,5 +1,3 @@
-### Digital marketing professional learning to code!
-Currently finishing a master's degree in business analytics, and working my way through <a href ="https://www.theodinproject.com">The Odin Project.</a>
 
 
 <!--
